@@ -1,0 +1,7 @@
+*.exe
+*.out
+*.o
+*.elf
+
+#001 hello world binary
+hello
