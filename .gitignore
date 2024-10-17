@@ -3,5 +3,5 @@
 *.o
 *.elf
 
-#001 hello world binary
+# 001 hello world binary
 hello
